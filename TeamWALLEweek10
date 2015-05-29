@@ -50,7 +50,7 @@ p    {color:#333}
 <p>We also finally began construction of the Arduino body. At the end of thursday we will have the drive mechanism attached, and by the end of Friday we will probably have the Shield assembly and breadboard attached to the chassis.
 <p>Prognosis for next week is to finalize basically the whole robot. We have to finish bolting the drive motors and gears to the base. We also have to mount the Arduino, the attached shields, the breadboard, the sound system, the solar panels, the battery pack, the ultrasonic sensor assembly, program the car’s movement and sync that code with the GPS and sound programs. We will then need to test and troubleshoot the vehicle in the few days we will have left before the final test of the car’s abilities.
 
-<p><center><div class="captions"><img src="images/timmysoldering.jpg" width="40%" height="40%"> <img src="images/jessieworking.jpg" width="40%" height="40%"> <br> Timmy G. learns to solder (left) and Jessie S. works on her team's car (right). </div></center></p>
+<p><center><div class="captions"><img src="images/compcorew/amplifier.jpg" width="40%" height="40%"> <img src="images/brianjackchassisconstruction.jpg" width="40%" height="40%"> <br> The Arduino core/shield setup with attached sound amplifier (left) and Brian G. and Jack R. work to attach the tank treads to the chassis (right). </div></center></p>
 
 		</section>
 				
