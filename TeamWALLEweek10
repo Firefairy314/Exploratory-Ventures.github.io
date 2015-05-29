@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>RHS Exploratory Ventures</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.poptrox.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-xlarge.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		 </head>
+	<body id="top">
+<style>
+p    {color:#333}
+</style>
+
+		<!-- Header -->
+			<header id="header">
+				<a href="https://drive.google.com/folderview?id=0B9FPMNMWXCHIfnkyVVpzbk5Yd2lrdHB1UzBzOXJVN2lqTklPb2FRZkNfR240YVN1QUJaV0U" class="image avatar"><img src="images/XVAUTO.png" alt="" /></a>
+				<h1><strong>Exploratory Ventures</strong>: introducing<br />
+				high school students to science and engineering.
+			</h1>
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+		
+				<!-- One -->
+					<section id="one">
+						<header class="major">
+							<h2>Blog Post: Patricia and Lucas<br />
+							</h2>
+						</header>
+						<p>
+<p>This week we finally acquired a motor-Lego axle adapter that actually fits the motor axle for the rotating ultrasonic sensor. “The only problem is the top part of the lego axle end is too narrow. We’ll need to widen it”, Alex said. Whether or not the widened adapter will accept a lego axle will be tested on Friday. Nikolai’s tread drive gears have been tested with the bike chain and they are a very good fit, though the teeth had to be sanded to mesh between the smaller chain links. The axle holes also had to be drilled out to accept the motor axle without using excessive force to insert the motor. 
+<p>Jack and Brian have succeeded in making the GPS detect position to within a few meters, and the direction the car is facing, even though the GPS calibration is off by approximately 50 degrees. Brian has been encountering difficulties with the sound amplifier, and learned that sound amplification requires a large amount of wiring just for moderate sound amplification. It does work though, and makes a reasonable R2-D2 impression. The sound system can also “sing ‘Harder, Better, Faster, Stronger’ by Daft Punk” Brian said.
+<p>We also finally began construction of the Arduino body. At the end of thursday we will have the drive mechanism attached, and by the end of Friday we will probably have the Shield assembly and breadboard attached to the chassis.
+<p>Prognosis for next week is to finalize basically the whole robot. We have to finish bolting the drive motors and gears to the base. We also have to mount the Arduino, the attached shields, the breadboard, the sound system, the solar panels, the battery pack, the ultrasonic sensor assembly, program the car’s movement and sync that code with the GPS and sound programs. We will then need to test and troubleshoot the vehicle in the few days we will have left before the final test of the car’s abilities.
+
+<p><center><div class="captions"><img src="images/compcorew/amplifier.jpg" width="40%" height="40%"> <img src="images/brianjackchassisconstruction.jpg" width="40%" height="40%"> <br> The Arduino core/shield setup with attached sound amplifier (left) and Brian G. and Jack R. work to attach the tank treads to the chassis (right). </div></center></p>
+
+		</section>
+				
+			
+				
+			</div>
+			
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="https://www.github.com/Exploratory-Ventures" class="icon fa-github"><span class="label">Github</span></a></li>
+					<li><a href="https://www.facebook.com/exploratoryventures" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="mailto:RiverdaleXV@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+				</ul>
+				<ul class="copyright">
+					<li>&copy; Riverdale High School</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				</ul>
+			</footer>
+
+	</body>
+</html>
